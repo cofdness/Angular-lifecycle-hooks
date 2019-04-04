@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'customer-app';
+  title = 'lazy loading feature modules';
+  fontSizePx: number = 10
 }
